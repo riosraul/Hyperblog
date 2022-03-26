@@ -1,3 +1,5 @@
 Este es un archivo de prueba para GIT
 
 creado el 24-03-2022 a las 20:54
+
+probando comando show
