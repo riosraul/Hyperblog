@@ -5,3 +5,7 @@ creado el 24-03-2022 a las 20:54
 probando comando show
 
 prueba de agregado para commit en github.com
+
+Mañana nos enfocaremos en su vida laboral
+
+prueba de agregado al staging para aplicar git reset
