@@ -11,3 +11,5 @@ Mañana nos enfocaremos en su vida laboral
 prueba de agregado al staging para aplicar git reset
 
 modificado desde Linux for Windows
+
+Master 1
