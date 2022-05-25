@@ -6,6 +6,8 @@ probando comando show
 
 Master 1
 
+Master 2
+
 prueba de agregado para commit en github.com
 
 Mañana nos enfocaremos en su vida laboral
